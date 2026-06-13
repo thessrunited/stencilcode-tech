@@ -1,68 +1,70 @@
-# Welcome to StencilCode
+# Getting Started with Create React App
 
-<div align="center">
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Building Software. Crafting Products.**
+## Available Scripts
 
-🌐 [stencilcode.tech](https://stencilcode.tech)
+In the project directory, you can run:
 
-</div>
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## About Us
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-StencilCode is a technology company operating at the intersection of **software services** and **product development**. We partner with businesses to design and build high-quality software solutions, while simultaneously crafting our own digital products from the ground up.
+### `npm test`
 
-We believe great software starts with a great blueprint — that's the StencilCode philosophy.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-## What We Do
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Software Solutions
-We offer end-to-end software development services for startups, SMEs, and enterprises — from ideation and architecture to development, deployment, and beyond.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- **Custom Web & Mobile Development** — Tailored applications built to scale
-- **UI/UX Design** — Clean, user-first design that converts
-- **API Development & Integration** — Robust backends and seamless third-party integrations
-- **Consulting & Architecture** — Technical guidance to help you make the right decisions early
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Product Development
-In addition to client work, we build our own products — solving real-world problems with technology.
+### `npm run eject`
 
----
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Current Product — FindKlub
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-> **[findklub.com](https://findklub.com)** — *Currently in Development*
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-FindKlub is our flagship product, currently under active development. Stay tuned for updates as we get closer to launch.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
----
+## Learn More
 
-## Our Tech Stack
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-We work across a wide range of modern technologies, choosing the right tool for every problem:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Python, REST & GraphQL APIs
-- **Mobile:** React Native
-- **Database:** PostgreSQL, MongoDB, Firebase
-- **Cloud & DevOps:** AWS, GCP, Docker, CI/CD pipelines
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## Work With Us
+### Analyzing the Bundle Size
 
-Whether you have a product idea, need a development partner, or want to scale your engineering team — we'd love to hear from you.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Reach out via [stencilcode.tech](https://stencilcode.tech)
+### Making a Progressive Web App
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-<div align="center">
+### Advanced Configuration
 
-Made with ☕ and clean code by the **StencilCode** team
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-</div>
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

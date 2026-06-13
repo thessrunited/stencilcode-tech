@@ -1,0 +1,16 @@
+{
+  "short_name": "StencilCode",
+  "name": "StencilCode",
+  "icons": [
+    {
+      "src": "stencilcode-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
